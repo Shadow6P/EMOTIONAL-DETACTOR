@@ -1,0 +1,8 @@
+body {
+    background-color: blueviolet;
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+    color: #385;
+}
